@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 I’m looking for an apprenticeship position<br>🌱 I’m currently learning Coding /Cybersecurity<br>⚡ Fun fact I'm interested about the world of coding
+🤝 I’m looking for an apprenticeship position<br>🌱 I’m currently learning Coding / Cybersecurity<br>⚡ Fun fact I'm interested about the world of coding
 
 
 ## 🌐 Socials:
