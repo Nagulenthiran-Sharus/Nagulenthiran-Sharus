@@ -2,7 +2,7 @@
 
 🤝 I’m looking for an apprenticeship position<br>🌱 I’m currently learning to Code and Cybersecurity<br>⚡ Fun fact I'm interested about the world of Coding and im always eager to learn more
 
-🤝 Ich suche eine Lehrstelle<br>🌱 Ich lerne derzeit Programmieren und Cybersicherheit<br>⚡ Fun Fact: Ich interessiere mich sehr für die Welt des Programmierens und bin immer motiviert, Neues zu lernen und mein Wissen zu erweitern.
+🤝 Ich suche nach eine Lehrstelle<br>🌱 Ich lerne derzeit Programmieren und Cybersicherheit<br>⚡ Fun Fact: Ich interessiere mich sehr für die Welt des Programmierens und bin immer motiviert, Neues zu lernen und mein Wissen zu erweitern.
 
 
 
